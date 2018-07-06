@@ -7,7 +7,7 @@
 # uses osx speech synthesizer. can be modified for other platforms/speech synths.
 # but note that some synths don't start up fast enough to keep the timing.
 
-import os;
+import os
 import time
 
 
